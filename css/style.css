@@ -3,9 +3,20 @@ body{
     margin:0;
     padding: 0;
     position: relative;
+    color: #ffffff;
+    font: 1em;
 }
 h2{
-    margin: 0;
+    padding: 20px 0 10px;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+.msg{
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+    font-size: 1.5em;
 }
 .pantallas{
     position: absolute;
@@ -17,26 +28,26 @@ h2{
     background:#ff0000;
 }
 .item4{
-    background:#cc0000;
+    background:#aa0000;
 }
 .item7{
-    background:#aa0000;
+    background:#660000;
 }
 .item2{
     background:#00ff00;
 }
 .item5{
-    background:#00cc00;
+    background:#00aa00;
 }
 .item8{
-    background:#00aa00;
+    background:#006600;
 }
 .item3{
     background:#0000ff;
 }
 .item6{
-    background:#0000cc;
+    background:#0000aa;
 }
 .item9{
-    background:#0000aa;
+    background:#000066;
 }

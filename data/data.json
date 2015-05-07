@@ -1,31 +1,40 @@
 {
     "pantallas": [
         {
-            "id": 1
+            "id": 1,
+            "msg": "From here, to down or right"
         },
         {
-            "id": 2
+            "id": 2,
+            "msg": "From here, to down, left or right"
         },
         {
-            "id": 3
+            "id": 3,
+            "msg": "From here, to down or left"
         },
         {
-            "id": 4
+            "id": 4,
+            "msg": "From here, to up, down or right"
         },
         {
-            "id": 5
+            "id": 5,
+            "msg": "Use your arrows to move anyware! or just swipe..."
         },
         {
-            "id": 6
+            "id": 6,
+            "msg": "From here, to up, down or left"
         },
         {
-            "id": 7
+            "id": 7,
+            "msg": "From here, to up or right"
         },
         {
-            "id": 8
+            "id": 8,
+            "msg": "From here, to up, left or right"
         },
         {
-            "id": 9
+            "id": 9,
+            "msg": "From here, to up or left"
         }
    ]
 }

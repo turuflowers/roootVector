@@ -56,7 +56,7 @@ $("document").ready(function () {
             success: function (data) {
 
 
-                $.each(data.pantallas, function (property, valor) {
+                $.each(data.pantallas, function (p, v) {
 
                     i++;
 
@@ -64,7 +64,8 @@ $("document").ready(function () {
 
                     temp.addClass("item" + i);
 
-                    temp.find('h2').text(valor.id);
+                    temp.find('h2').text(v.id);
+                    temp.find('.msg').text(v.msg);
 
 
                     $(temp).appendTo(".pantallas");
