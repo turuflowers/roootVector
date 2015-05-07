@@ -1,0 +1,42 @@
+body{
+    overflow: hidden;
+    margin:0;
+    padding: 0;
+    position: relative;
+}
+h2{
+    margin: 0;
+}
+.pantallas{
+    position: absolute;
+}
+.item{
+    float: left;
+}
+.item1{
+    background:#ff0000;
+}
+.item4{
+    background:#cc0000;
+}
+.item7{
+    background:#aa0000;
+}
+.item2{
+    background:#00ff00;
+}
+.item5{
+    background:#00cc00;
+}
+.item8{
+    background:#00aa00;
+}
+.item3{
+    background:#0000ff;
+}
+.item6{
+    background:#0000cc;
+}
+.item9{
+    background:#0000aa;
+}

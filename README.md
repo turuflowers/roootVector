@@ -4,7 +4,7 @@ roootVector
 Summary
 ---
 
-Simple module/full-screen 3x3 grid. You can navigate with the keyboard, or by swiping the screen.
+Simple module/full-screen 3x3 grid. You can navigate it with the keyboard, or by swiping the screen.
 
 Demo
 ---
